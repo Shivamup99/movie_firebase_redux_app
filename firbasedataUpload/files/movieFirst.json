@@ -1,0 +1,429 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "genre_ids": [
+                28,
+                12,
+                14,
+                18
+            ],
+            "original_language": "en",
+            "id": 639933,
+            "poster_path": "https://image.tmdb.org/t/p/w1280/zhLKlUaF1SEpO58ppHIAyENkwgw.jpg",
+            "video": false,
+            "vote_average": 7.7,
+            "overview": "Prince Amleth is on the verge of becoming a man when his father is brutally murdered by his uncle, who kidnaps the boy's mother. Two decades later, Amleth is now a Viking who's on a mission to save his mother, kill his uncle and avenge his father.",
+            "release_date": "2022-04-07",
+            "vote_count": 519,
+            "title": "The Northman",
+            "adult": false,
+            "backdrop_path": "https://image.tmdb.org/t/p/w1280/cqnVuxXe6vA7wfNWubak3x36DKJ.jpg",
+            "original_title": "The Northman",
+            "popularity": 458.416,
+            "media_type": "movie"
+        },
+        {
+            "release_date": "2022-03-24",
+            "id": 752623,
+            "adult": false,
+            "backdrop_path": "https://image.tmdb.org/t/p/w1280/A3bsT0m1um6tvcmlIGxBwx9eAxn.jpg",
+            "genre_ids": [
+                28,
+                12,
+                35,
+                10749
+            ],
+            "original_language": "en",
+            "original_title": "The Lost City",
+            "poster_path": "https://image.tmdb.org/t/p/w1280/neMZH82Stu91d3iqvLdNQfqPPyl.jpg",
+            "vote_count": 376,
+            "video": false,
+            "vote_average": 6.7,
+            "title": "The Lost City",
+            "overview": "Follows a reclusive romance novelist who was sure nothing could be worse than getting stuck on a book tour with her cover model, until a kidnapping attempt sweeps them both into a cutthroat jungle adventure, proving life can be so much stranger, and more romantic, than any of her paperback fictions.",
+            "popularity": 771.07,
+            "media_type": "movie"
+        },
+        {
+            "video": false,
+            "title": "Fantastic Beasts: The Secrets of Dumbledore",
+            "overview": "Professor Albus Dumbledore knows the powerful, dark wizard Gellert Grindelwald is moving to seize control of the wizarding world. Unable to stop him alone, he entrusts magizoologist Newt Scamander to lead an intrepid team of wizards and witches. They soon encounter an array of old and new beasts as they clash with Grindelwald's growing legion of followers.",
+            "release_date": "2022-04-06",
+            "vote_count": 957,
+            "adult": false,
+            "backdrop_path": "https://image.tmdb.org/t/p/w1280/zGLHX92Gk96O1DJvLil7ObJTbaL.jpg",
+            "id": 338953,
+            "genre_ids": [
+                12,
+                14
+            ],
+            "vote_average": 6.8,
+            "original_language": "en",
+            "original_title": "Fantastic Beasts: The Secrets of Dumbledore",
+            "poster_path": "https://image.tmdb.org/t/p/w1280/jrgifaYeUtTnaH7NF5Drkgjg2MB.jpg",
+            "popularity": 1109.739,
+            "media_type": "movie"
+        },
+        {
+            "video": false,
+            "vote_average": 7.5,
+            "title": "Doctor Strange in the Multiverse of Madness",
+            "overview": "Doctor Strange, with the help of mystical allies both old and new, traverses the mind-bending and dangerous alternate realities of the Multiverse to confront a mysterious new adversary.",
+            "release_date": "2022-05-04",
+            "adult": false,
+            "backdrop_path": "https://image.tmdb.org/t/p/w1280/AdyJH8kDm8xT8IKTlgpEC15ny4u.jpg",
+            "id": 453395,
+            "genre_ids": [
+                14,
+                28,
+                12
+            ],
+            "original_language": "en",
+            "original_title": "Doctor Strange in the Multiverse of Madness",
+            "poster_path": "https://image.tmdb.org/t/p/w1280/wRnbWt44nKjsFPrqSmwYki5vZtF.jpg",
+            "vote_count": 1311,
+            "popularity": 4074.333,
+            "media_type": "movie"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "https://image.tmdb.org/t/p/w1280/oZtoyj3rhOST8FUtIXUqblIYmCv.jpg",
+            "genre_ids": [
+                10752,
+                36,
+                18
+            ],
+            "vote_count": 73,
+            "original_language": "en",
+            "original_title": "Operation Mincemeat",
+            "id": 661231,
+            "title": "Operation Mincemeat",
+            "video": false,
+            "vote_average": 6.7,
+            "poster_path": "https://image.tmdb.org/t/p/w1280/tfdfh1mK24VujxT5z11732asxdR.jpg",
+            "overview": "In 1943, two British intelligence officers concoct Operation Mincemeat, wherein their plan to drop a corpse with false papers off the coast of Spain would fool Nazi spies into believing the Allied forces were planning to attack by way of Greece rather than Sicily.",
+            "release_date": "2022-04-01",
+            "popularity": 60.421,
+            "media_type": "movie"
+        },
+        {
+            "overview": "After settling in Green Hills, Sonic is eager to prove he has what it takes to be a true hero. His test comes when Dr. Robotnik returns, this time with a new partner, Knuckles, in search for an emerald that has the power to destroy civilizations. Sonic teams up with his own sidekick, Tails, and together they embark on a globe-trotting journey to find the emerald before it falls into the wrong hands.",
+            "release_date": "2022-03-30",
+            "id": 675353,
+            "adult": false,
+            "backdrop_path": "https://image.tmdb.org/t/p/w1280/egoyMDLqCxzjnSrWOz50uLlJWmD.jpg",
+            "genre_ids": [
+                28,
+                878,
+                35,
+                10751,
+                12
+            ],
+            "original_language": "en",
+            "original_title": "Sonic the Hedgehog 2",
+            "poster_path": "https://image.tmdb.org/t/p/w1280/6DrHO1jr3qVrViUO6s6kFiAGM7.jpg",
+            "vote_count": 1222,
+            "video": false,
+            "vote_average": 7.7,
+            "title": "Sonic the Hedgehog 2",
+            "popularity": 10050.323,
+            "media_type": "movie"
+        },
+        {
+            "video": false,
+            "vote_average": 7.2,
+            "id": 335787,
+            "overview": "A young street-smart, Nathan Drake and his wisecracking partner Victor “Sully” Sullivan embark on a dangerous pursuit of “the greatest treasure never found” while also tracking clues that may lead to Nathan’s long-lost brother.",
+            "release_date": "2022-02-10",
+            "adult": false,
+            "backdrop_path": "https://image.tmdb.org/t/p/w1280/aEGiJJP91HsKVTEPy1HhmN0wRLm.jpg",
+            "vote_count": 1847,
+            "genre_ids": [
+                28,
+                12
+            ],
+            "title": "Uncharted",
+            "original_language": "en",
+            "original_title": "Uncharted",
+            "poster_path": "https://image.tmdb.org/t/p/w1280/tlZpSxYuBRoVJBOpUrPdQe9FmFq.jpg",
+            "popularity": 4211.456,
+            "media_type": "movie"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "https://image.tmdb.org/t/p/w1280/iuGaTFUUNlkSAyyULZVKt9ZwBzg.jpg",
+            "genre_ids": [
+                99,
+                80
+            ],
+            "id": 962697,
+            "original_language": "en",
+            "original_title": "Our Father",
+            "overview": "After a woman's at-home DNA test reveals multiple half-siblings, she discovers a shocking scheme involving donor sperm and a popular fertility doctor.",
+            "poster_path": "https://image.tmdb.org/t/p/w1280/5uxxdvQebVbdD1AZfGff9CMmcQH.jpg",
+            "release_date": "2022-05-11",
+            "title": "Our Father",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 13,
+            "popularity": 68.263,
+            "media_type": "movie"
+        },
+        {
+            "original_title": "The Batman",
+            "id": 414906,
+            "video": false,
+            "vote_average": 7.8,
+            "overview": "In his second year of fighting crime, Batman uncovers corruption in Gotham City that connects to his own family while facing a serial killer known as the Riddler.",
+            "release_date": "2022-03-01",
+            "title": "The Batman",
+            "adult": false,
+            "backdrop_path": "https://image.tmdb.org/t/p/w1280/5P8SmMzSNYikXpxil6BYzJ16611.jpg",
+            "vote_count": 4451,
+            "genre_ids": [
+                80,
+                9648,
+                53
+            ],
+            "poster_path": "https://image.tmdb.org/t/p/w1280/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+            "original_language": "en",
+            "popularity": 4158.844,
+            "media_type": "movie"
+        },
+        {
+            "video": false,
+            "vote_average": 8.1,
+            "title": "Spider-Man: No Way Home",
+            "overview": "Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
+            "release_date": "2021-12-15",
+            "adult": false,
+            "backdrop_path": "https://image.tmdb.org/t/p/w1280/iQFcwSGbZXMkeyKrxbPnwnRo5fl.jpg",
+            "id": 634649,
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "original_language": "en",
+            "original_title": "Spider-Man: No Way Home",
+            "poster_path": "https://image.tmdb.org/t/p/w1280/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+            "vote_count": 12662,
+            "popularity": 3392.175,
+            "media_type": "movie"
+        },
+        {
+            "overview": "When the infamous Bad Guys are finally caught after years of countless heists and being the world’s most-wanted villains, Mr. Wolf brokers a deal to save them all from prison.",
+            "release_date": "2022-03-17",
+            "adult": false,
+            "backdrop_path": "https://image.tmdb.org/t/p/w1280/fEe5fe82qHzjO4yej0o79etqsWV.jpg",
+            "genre_ids": [
+                16,
+                35,
+                28,
+                10751,
+                80
+            ],
+            "title": "The Bad Guys",
+            "original_language": "en",
+            "original_title": "The Bad Guys",
+            "poster_path": "https://image.tmdb.org/t/p/w1280/7qop80YfuO0BwJa1uXk1DXUUEwv.jpg",
+            "vote_count": 336,
+            "video": false,
+            "id": 629542,
+            "vote_average": 7.8,
+            "popularity": 3855.822,
+            "media_type": "movie"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "https://image.tmdb.org/t/p/w1280/wLdhCY0JXTPmRNUa8C48FUzVa3p.jpg",
+            "genre_ids": [
+                35,
+                80,
+                28
+            ],
+            "id": 859453,
+            "original_language": "pl",
+            "original_title": "Najmro. Kocha, kradnie, szanuje",
+            "overview": "Comedy about Zdzisław Najmrodzki, most famous polish criminal in the times of Polish People Republic, named \"the getaway king\", known for stealing cars and escaping prison many times, but never hurting anybody.",
+            "poster_path": "https://image.tmdb.org/t/p/w1280/dfoudpFhAo5Mn8Sqyuu4Y006ITQ.jpg",
+            "release_date": "2021-09-17",
+            "title": "The Getaway King",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 21,
+            "popularity": 15.718,
+            "media_type": "movie"
+        },
+        {
+            "video": false,
+            "title": "Firestarter",
+            "overview": "For more than a decade, parents Andy and Vicky have been on the run, desperate to hide their daughter Charlie from a shadowy federal agency that wants to harness her unprecedented gift for creating fire into a weapon of mass destruction. Andy has taught Charlie how to defuse her power, which is triggered by anger or pain. But as Charlie turns 11, the fire becomes harder and harder to control. After an incident reveals the family's location, a mysterious operative is deployed to hunt down the family and seize Charlie once and for all. Charlie has other plans.",
+            "release_date": "2022-05-12",
+            "vote_count": 11,
+            "adult": false,
+            "backdrop_path": "https://image.tmdb.org/t/p/w1280/hgwgv9L7IOdLFc8ISVeHDk2ZPq4.jpg",
+            "id": 532710,
+            "genre_ids": [
+                53,
+                14,
+                27
+            ],
+            "vote_average": 7.8,
+            "original_language": "en",
+            "original_title": "Firestarter",
+            "poster_path": "https://image.tmdb.org/t/p/w1280/2MTGip0nfahQ1jPQCZSfCsPBZes.jpg",
+            "popularity": 133.068,
+            "media_type": "movie"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "https://image.tmdb.org/t/p/w1280/htLu9YpLJCXk56GAHuFDnj8oadV.jpg",
+            "genre_ids": [
+                16,
+                28,
+                878
+            ],
+            "id": 965244,
+            "original_language": "ja",
+            "original_title": "攻殻機動隊 SAC_2045 持続可能戦争",
+            "overview": "In the year 2045, after an economic disaster known as the Synchronized Global Default, rapid developments in AI propelled the world to enter a state of \"Sustainable War\". However, the public is not aware of the threat that AI has towards the human race.  A compilation film with newly added footage.",
+            "poster_path": "https://image.tmdb.org/t/p/w1280/p5b1c4BKXexVstOBzrBRAWMBj3V.jpg",
+            "release_date": "2021-12-21",
+            "title": "Ghost in the Shell: SAC_2045 Sustainable War",
+            "video": false,
+            "vote_average": 8.2,
+            "vote_count": 5,
+            "popularity": 5.428,
+            "media_type": "movie"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "https://image.tmdb.org/t/p/w1280/wtbRUVxQVvU6QIJH1oGLDThJLib.jpg",
+            "genre_ids": [
+                35,
+                28
+            ],
+            "id": 785985,
+            "original_language": "fr",
+            "original_title": "Loin du périph",
+            "overview": "Ousmane Diakité and François Monge are two cops with very different styles, backgrounds and careers. The unlikely pair are reunited once again for a new investigation that takes them across France. What seemed to be a simple drug deal turns out to be a much bigger criminal case wrapped in danger and unexpected comedy.",
+            "poster_path": "https://image.tmdb.org/t/p/w1280/h5hVeCfYSb8gIO0F41gqidtb0AI.jpg",
+            "release_date": "2022-05-06",
+            "title": "The Takedown",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 87,
+            "popularity": 358.067,
+            "media_type": "movie"
+        },
+        {
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "original_language": "en",
+            "original_title": "365 Days: This Day",
+            "poster_path": "https://image.tmdb.org/t/p/w1280/7qU0SOVcQ8BTJLodcAlulUAG16C.jpg",
+            "video": false,
+            "vote_average": 5.6,
+            "id": 829557,
+            "overview": "Laura and Massimo are back and hotter than ever. But the reunited couple's new beginning is complicated by Massimo’s family ties and a mysterious man who enters Laura’s life to win her heart and trust, at any cost.",
+            "release_date": "2022-04-27",
+            "vote_count": 360,
+            "title": "365 Days: This Day",
+            "adult": false,
+            "backdrop_path": "https://image.tmdb.org/t/p/w1280/t9hNIUFcy0tYu55IPxjxRTTdZ6X.jpg",
+            "popularity": 1664.213,
+            "media_type": "movie"
+        },
+        {
+            "poster_path": "https://image.tmdb.org/t/p/w1280/odVv1sqVs0KxBXiA8bhIBlPgalx.jpg",
+            "video": false,
+            "vote_average": 6.5,
+            "id": 406759,
+            "overview": "A mysterious force knocks the moon from its orbit around Earth and sends it hurtling on a collision course with life as we know it.",
+            "release_date": "2022-02-03",
+            "adult": false,
+            "backdrop_path": "https://image.tmdb.org/t/p/w1280/x747ZvF0CcYYTTpPRCoUrxA2cYy.jpg",
+            "title": "Moonfall",
+            "genre_ids": [
+                878,
+                12,
+                28
+            ],
+            "vote_count": 951,
+            "original_language": "en",
+            "original_title": "Moonfall",
+            "popularity": 2140.446,
+            "media_type": "movie"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "https://image.tmdb.org/t/p/w1280/hPEOBD7eeQh7plm9TYoECNkK4b3.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10751
+            ],
+            "id": 826241,
+            "original_language": "es",
+            "original_title": "La familia perfecta",
+            "overview": "Lucía (Belén Rueda) is a woman for whom leading a model life and taking control of her life is the most important thing. Since she got married, she has focused all of her efforts on caring for her family, until achieving what for her is a perfect family. However, her entire world begins to collapse with the arrival of Sara (Carolina Yuste), the girlfriend of her son; a young girl with great freedom and without mincing words who has a very different family from what Lucia always dreamed of as a political family. Now, Lucia must accept that the perfect family was not exactly what she thought.",
+            "poster_path": "https://image.tmdb.org/t/p/w1280/ejRrpBuWj8MNkFP7DUHZoqhuGmV.jpg",
+            "release_date": "2021-12-03",
+            "title": "La familia perfecta",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 3,
+            "popularity": 11.344,
+            "media_type": "movie"
+        },
+        {
+            "id": 76600,
+            "vote_average": 0.0,
+            "overview": "Set more than a decade after the events of the first film, “Avatar: The Way of Water” begins to tell the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive,  and the tragedies they endure.",
+            "release_date": "2022-12-14",
+            "vote_count": 0,
+            "adult": false,
+            "backdrop_path": "https://image.tmdb.org/t/p/w1280/fkGR1ltNbvERk3topo4dP3gWsvR.jpg",
+            "video": false,
+            "genre_ids": [
+                28,
+                12,
+                14,
+                878
+            ],
+            "title": "Avatar: The Way of Water",
+            "original_language": "en",
+            "original_title": "Avatar: The Way of Water",
+            "poster_path": "https://image.tmdb.org/t/p/w1280/fjaoD0ZfPOf2C5BalCziPUaf4Zk.jpg",
+            "popularity": 329.114,
+            "media_type": "movie"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "https://image.tmdb.org/t/p/w1280/192vHmAPbk5esL34XMKZ1YLGFjr.jpg",
+            "genre_ids": [
+                28,
+                53,
+                80
+            ],
+            "original_language": "en",
+            "original_title": "Ambulance",
+            "poster_path": "https://image.tmdb.org/t/p/w1280/kuxjMVuc3VTD7p42TZpJNsSrM1V.jpg",
+            "vote_count": 532,
+            "video": false,
+            "vote_average": 6.9,
+            "title": "Ambulance",
+            "overview": "Decorated veteran Will Sharp, desperate for money to cover his wife's medical bills, asks for help from his adoptive brother Danny. A charismatic career criminal, Danny instead offers him a score: the biggest bank heist in Los Angeles history: $32 million.",
+            "release_date": "2022-03-16",
+            "id": 763285,
+            "popularity": 2354.851,
+            "media_type": "movie"
+        }
+    ],
+    "total_pages": 1000,
+    "total_results": 20000
+}
